@@ -42,7 +42,7 @@ export const App = () => {
         <Subscribe />
       </section>
 
-      <section className="padding-x padding-t pb-8">
+      <section className="bg-black padding-x padding-t pb-8">
         <Footer />
       </section>
     </main>
